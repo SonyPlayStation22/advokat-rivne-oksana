@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "js",
+			"path": "../Responsive Card Slider/js"
+		},
+		{
+			"name": "effct",
+			"path": "."
+		},
+		{
+			"name": "css",
+			"path": "../Responsive Card Slider/css"
+		}
+	],
+	"settings": {}
+}
